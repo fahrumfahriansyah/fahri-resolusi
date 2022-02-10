@@ -3,3 +3,6 @@ memperdalam css
 memperdalam javascript
 mempelajari nodejs&jquery
 mempelajari boostrap
+mempelajari php & laravel
+mempelajari database
+mempelajari api
