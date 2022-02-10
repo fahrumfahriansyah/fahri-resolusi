@@ -1,3 +1,5 @@
 memperdalam html
 memperdalam css
 memperdalam javascript
+mempelajari nodejs&jquery
+mempelajari boostrap
