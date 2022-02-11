@@ -1,9 +1,10 @@
 memperdalam html
 memperdalam css
 memperdalam javascript
+    *node js
 mempelajari boostrap
-mempelajari php 
+mempelajari php
+    *laravel
 mempelajari database
 mempelajari api
-mempelajari golang
 
