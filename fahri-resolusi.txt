@@ -4,7 +4,7 @@ memperdalam javascript
 mempelajari nodejs 
 mempelajari jquery
 mempelajari boostrap
-mempelajari php
-mepelajari laravel
+mempelajari php & laravel
 mempelajari database
 mempelajari api
+mempelajari cl/cd
