@@ -8,3 +8,4 @@ mempelajari php
 mepelajari laravel
 mempelajari database
 mempelajari api
+mempelajari cl/cd
